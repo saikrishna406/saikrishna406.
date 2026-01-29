@@ -38,20 +38,19 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikrishna406&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=saikrishna406&theme=radical" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishna406&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna406&layout=compact&theme=radical" width="48%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=saikrishna406&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna406&layout=compact&theme=radical)
+
 
 ---
 
 ## 🏆 GitHub Trophies:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=saikrishna406&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=saikrishna406&theme=radical&no-frame=true&row=1&column=6)
+
 
 ---
 
